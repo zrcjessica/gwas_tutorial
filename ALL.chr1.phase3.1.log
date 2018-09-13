@@ -1,0 +1,26 @@
+PLINK v1.90b4 64-bit (20 Mar 2017)
+Options in effect:
+  --bfile ALL.chr1.phase3.1
+  --out ALL.chr1.phase3.1
+  --pca header tabs
+
+Hostname: chengdulu.local
+Working directory: /Users/jlzhou/Documents/bootcamp
+Start time: Tue Sep 11 11:12:27 2018
+
+Random number seed: 1536689547
+16384 MB RAM detected; reserving 8192 MB for main workspace.
+47074 variants loaded from .bim file.
+2504 people (0 males, 0 females, 2504 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to ALL.chr1.phase3.1.nosex .
+Using up to 8 threads (change this with --threads).
+Before main variant filters, 2504 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.999903.
+47074 variants and 2504 people pass filters and QC.
+Note: No phenotypes present.
+Relationship matrix calculation complete.
+--pca: Results saved to ALL.chr1.phase3.1.eigenval and
+ALL.chr1.phase3.1.eigenvec .
+
+End time: Tue Sep 11 11:12:35 2018
