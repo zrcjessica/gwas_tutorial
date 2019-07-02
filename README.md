@@ -4,4 +4,6 @@ Here are two examples of using genetic data for some exploratory analysis. We wi
 
 Please clone this repository to your local computer with the following command: 
 
-`git clone https://github.com/zrcjessica/gwas_tutorial.git`
+``` bash
+git clone https://github.com/zrcjessica/gwas_tutorial.git
+```
